@@ -37,6 +37,9 @@ pip install -e mamba-1p1p1
 For the preprocessed HyperKvasir, LDPolyp, and EndoVis18, please download from [huggingface link](https://huggingface.co/datasets/jeffrey423/MedVSR_dataset). Modify L14-16 and L39-40 to the extracted HyperKvasir training and validation folders.
 
 ## Test the model
+
+Download our pretrained model at [here](https://huggingface.co/jeffrey423/MedVSR).
+
 ```python
 python test_model.py -opt ./options/medvsr_train.yml --weight <PATH_TO_PRETRAINED_MEDVSR>
 ```
