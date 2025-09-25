@@ -19,7 +19,6 @@ experiments/REDS_200K_N6_RT_lite_bialign
 
 # Distribution / packaging
 .Python
-experiments/
 datasets/
 results/
 build/
