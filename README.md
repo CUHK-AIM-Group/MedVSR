@@ -1,6 +1,6 @@
 # [ICCV 2025] MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation
 
-**Xinyu Liu<sup>1</sup>, Guolei Sun<sup>2</sup>, Cheng Wang<sup>1</sup>, Yixuan Yuan<sup>1,*</sup>, Ender Konukoglu<sup>2</sup>**  
+**Xinyu Liu<sup>1</sup>, Guolei Sun<sup>2</sup>, Cheng Wang<sup>1</sup>, Yixuan Yuan<sup>1,\*</sup>, Ender Konukoglu<sup>2,\*</sup>**  
 <sup>1</sup>The Chinese University of Hong Kong  
 <sup>2</sup>Computer Vision Laboratory, ETH Zurich  
 
